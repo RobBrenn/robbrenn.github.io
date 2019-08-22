@@ -1,6 +1,6 @@
 ## Welcome to my door blog
 
-Here are pictures of cool doors I have found :)
+Here are pictures of cool doors I have found :smiley:
 
 
 ### Heart door  :heart:
