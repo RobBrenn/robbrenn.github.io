@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% include nav.html %}
+
+<div class="post">
+<p>Author: {{page.author}} </p>
+
+{{ content }}
+
+<h4>Taken: {{ page.date | date: "%-d %B %Y" }} </h4>
+
+<div class="tags">
+  <p> Tags : [
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>
+  {% endfor %}
+]</p>
+</div>
+</div>
+<hr>
