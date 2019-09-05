@@ -23,7 +23,7 @@ so is a rather odd shape, which gives it a lovely atmosphere.
 <p>
 The church is open daily for free tours by volunteers, and the day I took these
 pictures I had a little bonus tour! I was shown up to have a look at the church
-organ (from 1884), as well as look into the bell tower where I got to learn a bit
+organ, as well as look into the bell tower where I got to learn a bit
 of history of the bells, and a demonstration of the bells in action.
 </p>
 <p>
